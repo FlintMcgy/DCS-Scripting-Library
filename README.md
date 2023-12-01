@@ -1,6 +1,6 @@
 # DCS-Scripting-Library
 First, I want to say I didn't make this. I've had this on my PC for a while and have been using it with my IDE (VScode). I have tried to search everywhere to find it but couldn't. If you know who made this, please let me know!
-Edit: I found who made it his name is "Asherao". This is a link to his page "https://github.com/asherao/DCS-Scripting-Library"
+\n Edit: I found who made it his name is "Asherao". This is a link to his page "https://github.com/asherao/DCS-Scripting-Library"
 
 Provides a baseline Scripting Library for DCS for use in VS Code. This incudes Intellisense and auto code completion. You have the option to add other Environment by simply drag and droping the `.lua` file into the directory. What's unique about it is that you don't have to have other windows open or be imbeded in a project to access the features it provides.
 
